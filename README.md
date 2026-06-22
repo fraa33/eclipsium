@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="C:\Users\Francesco\Downloads\Project\eclipsium\assets\images\logo.png.png" alt="Eclipsium Logo" width="300">
+  <img src="./app-preview.jpg" alt="Eclipsium Logo" width="300">
 </p>
 
 <h1 align="center">eclipsium</h1>
