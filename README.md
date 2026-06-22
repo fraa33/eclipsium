@@ -7,4 +7,4 @@
     🏆 Gamified Profile & Freedom – Level up through a tiered badge system (from Bronze all the way to Eclipse). Swap themes effortlessly and retain full ownership of your data with seamless JSON exports.
     🤖 On-Device AI Coach – Chat 100% offline with an AI trained to answer questions about your progress, workouts, nutrition, and recovery.
     🔒 Military-Grade Security – Your personal data is shielded by AES-256 encryption, with keys securely locked inside iOS Keychain or Android Keystore.
-    !!WARNING!! The app is in v1.0.0 some feature are in beta if you found any bug write me an email to: francyx613@gmail.com
+    !!WARNING!! The app is in v1.0.0 some feature are in beta if you found any bug write me an email to: francyx613@gmail.com.
